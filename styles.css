@@ -12,6 +12,9 @@
     color: #165ccb;
     padding: 20px;
     }
+  p{
+    letter-spacing: 1px;
+  }
   h1{
     text-align: center;
     font-family: 'Abhaya Libre', serif;
@@ -55,7 +58,7 @@
     max-width: 100%;
     height: auto;
     }
-  .footer{
+  footer{
     padding: 40px;
     text-align: center;
     border-top: 10px solid #F6A631;
@@ -65,19 +68,12 @@
     color: rgb(22, 92, 203);
     font-size: 25px;
     padding: 20px;
-    text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    border-radius: 10px;
     background: rgb(246, 166, 49);
     background: -moz-linear-gradient(90deg, rgb(246, 166, 49) 30%, rgb(246, 166, 49) 70%);
     background: -webkit-linear-gradient(90deg, rgb(246, 166, 49) 30%, rgb(246, 166, 49) 70%);
     background: -o-linear-gradient(90deg, rgb(246, 166, 49) 30%, rgb(246, 166, 49) 70%);
     background: -ms-linear-gradient(90deg, rgb(246, 166, 49) 30%, rgb(246, 166, 49) 70%);
     background: linear-gradient(0deg, rgb(246, 166, 49) 30%, rgb(246, 166, 49) 70%);
-    -webkit-box-shadow: 0px 2px 12px rgba(50, 50, 50, 0.75);
-    -moz-box-shadow:    0px 2px 12px rgba(50, 50, 50, 0.75);
-    box-shadow:         0px 2px 12px rgba(50, 50, 50, 0.75);
     text-decoration: none;
     font-family: 'Poor Story', cursive;
     display: inline-block;
